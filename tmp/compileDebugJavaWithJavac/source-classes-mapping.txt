@@ -1,0 +1,10 @@
+com/example/sqlbasics/BuildConfig.java
+ com.example.sqlbasics.BuildConfig
+com/example/sqlbasics/AppDatabase_Impl.java
+ com.example.sqlbasics.AppDatabase_Impl
+ com.example.sqlbasics.AppDatabase_Impl$1
+com/example/sqlbasics/CaliforniaParkDao_Impl.java
+ com.example.sqlbasics.CaliforniaParkDao_Impl
+ com.example.sqlbasics.CaliforniaParkDao_Impl$1
+ com.example.sqlbasics.CaliforniaParkDao_Impl$2
+ com.example.sqlbasics.CaliforniaParkDao_Impl$3
